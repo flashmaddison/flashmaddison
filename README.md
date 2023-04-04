@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning everything I can get my hands on, including more on Linux admin and different types of cloud infrastructure implementations
 - 💞️ I’m not looking to collaborate just yet, just checking this website out :)
 - 📫 You can get me by emailing github@seanmaddison.uk
+- 💷 [Donate](https://www.paypal.com/donate/?hosted_button_id=PLSQDDZ3MCM6Q) if you find anything remotely useable!
 
 <!---
 flashmaddison/flashmaddison is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
